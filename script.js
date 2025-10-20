@@ -344,6 +344,4 @@ if (nameInput) {
 renderBtn.addEventListener('click', () => draw());
 
 // Prompt the user visibly by focusing name field
-if (nameInput) nameInput.focus();
-#   g e n e r a t o r _ r a n g o o l i  
- 
+if (nameInput) nameInput.focus(); 
